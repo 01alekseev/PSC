@@ -47,7 +47,7 @@ python3 cli/psc_cli.py burn contract.psc
 *PSC can be encrypted with the Petoron Time Burn Cipher for complete privacy:
 python3 python3 ptbc_cli.py encrypt contract.psc contract.ptbc --ttl 600 
 
-Зависимости:
+Dependencies:
 Python 3.7+ 
 PyNaCl (pip install pynacl)
 
